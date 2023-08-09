@@ -7,7 +7,7 @@ Library with tools that make any everyday Python user simply happy.
 ## Installation
 
 ```
-pip install happy_tools=1.0.0
+pip install happy_tools==1.0.0
 ```
 
 To keep the library installation lightweight, additional dependencies for file IO are not installed by default.
